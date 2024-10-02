@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ejosechavezl94
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning cibersecurity
+- 👀 I’m interested in learning full stack development 
+- 🌱 I’m currently learning Full stack development 
 - 💞️ I’m looking to collaborate on pojects
 - 📫 How to reach me ejosechavezl18@gmail.com
-- 😄 Pronouns: none
 - ⚡ Fun fact: my first time in this
 
 <!---
