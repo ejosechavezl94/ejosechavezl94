@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ejosechavezl94
 - 👀 I’m interested in learning full stack development 
 - 🌱 I’m currently learning Full stack development in 4geeks academy 
-- 💞️ I’m looking to collaborate on pojects
+- 💞️ I’m looking to collaborate on pojects and learn how to code 
 - 📫 How to reach me ejosechavezl18@gmail.com
-- ⚡ Fun fact: my first time in this
+- ⚡ Fun fact: my first time in this world 
 
 <!---
 ejosechavezl94/ejosechavezl94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
